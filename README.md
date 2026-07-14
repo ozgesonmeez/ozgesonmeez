@@ -101,8 +101,4 @@ https://e-commerce-72nk.vercel.app
 
 - ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozgesonmeez&show_icons=true&theme=github_light)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgesonmeez&layout=compact&theme=github_light)
