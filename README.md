@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özge Sönmez</h1>
+![](https://komarev.com/ghpvc/?username=ozgesonmeez&color=blue)
 
 <h3 align="center">Junior Full Stack Developer | Java • Spring Boot • React • PostgreSQL</h3>
 
@@ -6,7 +7,7 @@
 Passionate about building modern web applications with Java, Spring Boot, React and PostgreSQL.
 Currently focused on backend development, RESTful APIs, clean architecture and scalable applications.
 </p>
-![](https://komarev.com/ghpvc/?username=ozgesonmeez&color=blue)
+
 
 ---
 
@@ -18,6 +19,7 @@ Currently focused on backend development, RESTful APIs, clean architecture and s
 - 🎯 Interested in Backend Development & REST APIs
 - 📍 Bursa, Türkiye
 - 📫 Reach me at: **ozgesonmez1@outlook.com**
+- Open to Junior Full Stack Developer opportunities.
 
 ---
 
@@ -99,6 +101,6 @@ https://e-commerce-72nk.vercel.app
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ozgesonmeez&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ozgesonmeez&show_icons=true&theme=github_light)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgesonmeez&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgesonmeez&layout=compact&theme=github_light)
