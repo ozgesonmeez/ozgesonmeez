@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özge Sönmez</h1>
-![](https://komarev.com/ghpvc/?username=ozgesonmeez&color=blue)
+
 
 <h3 align="center">Junior Full Stack Developer | Java • Spring Boot • React • PostgreSQL</h3>
 
@@ -8,6 +8,8 @@ Passionate about building modern web applications with Java, Spring Boot, React 
 Currently focused on backend development, RESTful APIs, clean architecture and scalable applications.
 </p>
 
+
+![](https://komarev.com/ghpvc/?username=ozgesonmeez&color=blue)
 
 ---
 
